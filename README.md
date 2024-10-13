@@ -2,7 +2,7 @@
 
 ## Cost-Sensitive-Regression
 
-## Link for the Dataset: https://drive.google.com/drive/folders/1OU_cbT1X7mVJupgLX_bz55JFv8EdOsjP?usp=sharing
+### Link for the Dataset: https://drive.google.com/drive/folders/1OU_cbT1X7mVJupgLX_bz55JFv8EdOsjP?usp=sharing
 
 ### This project explores cost-sensitive logistic regression models for binary classification. Traditional logistic regression treats false positives and false negatives equally, which may not align with real-world scenarios where different misclassifications carry varying penalties. 
 
@@ -20,7 +20,7 @@ Both models were trained and evaluated on a custom dataset, comparing the perfor
 ## Identify-clusters-using-Node2Vec-Embedding-Spectral-and-GCN-embeddings
 This project identifies clusters in a transaction dataset using three node embedding techniques: Node2Vec, Spectral Embedding, and Graph Convolutional Networks (GCN). The dataset consists of sender-receiver payment transactions, with the transaction amount as the edge weight in the graph.
 
-Link for Dataset: https://drive.google.com/file/d/1fvg_uOfLAJKfZwBiH-ofzejJLcLRHA45/view?usp=sharing
+### Link for Dataset: https://drive.google.com/file/d/1fvg_uOfLAJKfZwBiH-ofzejJLcLRHA45/view?usp=sharing
 
 ## Methodology:
 ### Data Processing:
